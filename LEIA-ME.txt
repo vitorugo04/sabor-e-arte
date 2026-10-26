@@ -1,0 +1,22 @@
+SABOR & ARTE — Projeto de site culinário
+
+Arquivos:
+- index.html: página inicial
+- receitas.html: página de receitas
+- galeria.html: galeria de imagens
+- contato.html: formulário de contato
+- style.css: estilos, responsividade, transições e animações
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html em um navegador.
+3. Para editar, abra os arquivos em um editor como Visual Studio Code.
+
+Tecnologias:
+- HTML5 e CSS3
+- Sem JavaScript
+- Imagens carregadas de URLs externas (é necessário ter internet para vê-las).
+- O formulário usa mailto: e depende de um aplicativo de e-mail configurado; HTML/CSS puros não armazenam nem enviam dados a um servidor.
+
+Personalização:
+Substitua o e-mail de exemplo em contato.html pelo endereço definido para o projeto.
